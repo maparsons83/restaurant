@@ -3,7 +3,7 @@
 /* Use the 'Oswald' font family at 14px throughout the body of the document. */
 nav {font-family: sans-serif; font-size: 10px;}
 body {font-family: 'Oswald'; font-size: 14px}
-header {font-family: 'Bungee Inline'; font-weight: lighter; font-size: 46px;}
+h1 {font-family: 'Bungee Inline'; font-weight: lighter; font-size: 46px;}
 
 #main {width: 900px; margin: 10px auto;}
 /* Use the 'Bungee Inline' font at 46px and lighter weight for the restaurant name. */
